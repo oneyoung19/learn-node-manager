@@ -1,4 +1,4 @@
-[fnm.vercel.app](http://fnm.vercel.app/)
+[fnm.vercel.app](https://github.com/Schniz/fnm)
 
 ## Features
 
